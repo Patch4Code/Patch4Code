@@ -1,4 +1,10 @@
-### Hi there 👋
+### 🤖 Patch4Code
+
+
+- Hey there, I'm @Patch4Code 👋
+- 🚀 Code adventurer
+- 🧠 Still learning
+- 📱  Interested in Android App Development
 
 <!--
 **Patch4Code/Patch4Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
