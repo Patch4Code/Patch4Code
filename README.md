@@ -1,7 +1,7 @@
-### 🤖 Patch4Code
+# 🤖 Patch4Code
 
 
-- Hey there, I'm @Patch4Code 👋
+- 👋 Hey there, I'm @Patch4Code 
 - 🚀 Code adventurer
 - 🧠 Still learning
 - 📱  Interested in Android App Development
