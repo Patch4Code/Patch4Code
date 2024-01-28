@@ -25,9 +25,8 @@
 </p>
 
 #
-
-<p><img align="left" src=https://github-readme-stats.vercel.app/api?username=patch4code&show_icons=true&locale=en&layout=compact&theme=dark height="175"/></p>
-<p><img align="left" src=https://github-readme-stats.vercel.app/api/top-langs?username=patch4code&show_icons=true&locale=en&layout=compact&theme=dark height="175"/></p>
+<p><img align="left" src=https://github-readme-stats.vercel.app/api?username=patch4code&show_icons=true&locale=en&layout=compact&theme=dark progress=true height="175"/></p>
+<p><img align="left" src=https://github-readme-stats.vercel.app/api/top-langs?username=patch4code&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=6 height="175"/></p>
 <br><br><br><br><br><br><br><br><br>
 <p><img align="center" src="https://streak-stats.demolab.com/?user=patch4code&theme=dark" alt="patch4code" height="166" /></p>
 
