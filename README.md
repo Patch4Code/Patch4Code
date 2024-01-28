@@ -1,15 +1,15 @@
-![MasterHead](https://github.com/Patch4Code/Patch4Code/assets/116561421/3c04e21a-72af-4ed8-b78c-7ed3d4abd2bc)
+![MasterHead](https://github.com/Patch4Code/Patch4Code/assets/116561421/815b7fdb-e8d4-47c0-b37c-5d943ca31163)
 
 # 🤖 Patch4Code
 
-<image align="right" alt="Coding" width="500" src="https://github.com/Patch4Code/Patch4Code/assets/116561421/a1408a84-a8a8-4cfd-8d45-4e8f405b0084">
+<image align="right" alt="Coding" width="430" src="https://github.com/Patch4Code/Patch4Code/assets/116561421/a1408a84-a8a8-4cfd-8d45-4e8f405b0084">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patch4code&label=Profile%20views&color=0e75b6&style=flat" alt="patch4code" /> </p>
 
 - 👋 Hey there, I'm @Patch4Code (aka Patchf4ce)
   
-- 🚀 Code adventurer
+- 🚀 real Code Adventurer
   
-- 🧠 Still learning
+- 🧠 I'm Still learning
   
 - 📱  Interested in Android App Development
 
