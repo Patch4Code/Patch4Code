@@ -1,6 +1,6 @@
 # 🤖 Patch4Code
 
-<image align="right" alt="Coding" width="500" src="https://i.gifer.com/fetch/w300-preview/11/11f3343b4191e3f4b8ebf1ea9de605b1.gif">
+<image align="right" alt="Coding" width="500" src="https://github.com/Patch4Code/Patch4Code/assets/116561421/a1408a84-a8a8-4cfd-8d45-4e8f405b0084">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patch4code&label=Profile%20views&color=0e75b6&style=flat" alt="patch4code" /> </p>
 
 - 👋 Hey there, I'm @Patch4Code (aka Patchf4ce)
