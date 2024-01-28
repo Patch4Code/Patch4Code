@@ -1,10 +1,21 @@
 # 🤖 Patch4Code
 
+<image align="right" alt="Coding" width="500" src="https://i.gifer.com/fetch/w300-preview/11/11f3343b4191e3f4b8ebf1ea9de605b1.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=patch4code&label=Profile%20views&color=0e75b6&style=flat" alt="patch4code" /> </p>
 
-- 👋 Hey there, I'm @Patch4Code 
+- 👋 Hey there, I'm @Patch4Code (aka Patchf4ce)
+  
 - 🚀 Code adventurer
+  
 - 🧠 Still learning
+  
 - 📱  Interested in Android App Development
+
+- 💻 currently working on a movie app
+  
+- 📧 Contact
+  
+- 💬 Quote of the week <br><code style="color : LightSkyBlue">*Carpe Diem. Seize the day, boys. Make your lives extraordinary!*</code>
 
 #
 
@@ -29,7 +40,3 @@
 <p><img align="left" src=https://github-readme-stats.vercel.app/api/top-langs?username=patch4code&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=6 height="175"/></p>
 <br><br><br><br><br><br><br><br><br>
 <p><img align="center" src="https://streak-stats.demolab.com/?user=patch4code&theme=dark" alt="patch4code" height="166" /></p>
-
-
-
-
