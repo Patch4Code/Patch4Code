@@ -6,6 +6,11 @@
 - 🧠 Still learning
 - 📱  Interested in Android App Development
 
+#
+
+<p><img align="left" src=https://github-readme-stats.vercel.app/api?username=patch4code&show_icons=true&locale=en&layout=compact&theme=dark height="180"/></p>
+<p><img align="left" src=https://github-readme-stats.vercel.app/api/top-langs?username=patch4code&show_icons=true&locale=en&layout=compact&theme=dark height="180"/></p>
+
 <!--
 **Patch4Code/Patch4Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
