@@ -10,7 +10,7 @@
   
 - 🧠 I'm Still learning
   
-- 📱 Interested in Android App Development
+- 📱🎮 Interested in Android App Development and Game Design
 
 - 💻 Currently working on a Movie-App
   
