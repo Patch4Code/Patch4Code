@@ -1,6 +1,5 @@
 ![MasterHead](https://github.com/Patch4Code/Patch4Code/assets/116561421/815b7fdb-e8d4-47c0-b37c-5d943ca31163)
-
-# 🤖 Patch4Code
+# 
 
 <image align="right" alt="Coding" width="430" src="https://github.com/Patch4Code/Patch4Code/assets/116561421/a1408a84-a8a8-4cfd-8d45-4e8f405b0084">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patch4code&label=Profile%20views&color=0e75b6&style=flat" alt="patch4code" /> </p>
