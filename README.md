@@ -7,13 +7,13 @@
 
 - 👋 Hey there, I'm @Patch4Code (aka Patchf4ce)
   
-- 🚀 real Code Adventurer
+- 🚀 Code Adventurer
   
 - 🧠 I'm Still learning
   
-- 📱  Interested in Android App Development
+- 📱 Interested in Android App Development
 
-- 💻 currently working on a movie app
+- 💻 Currently working on a Movie-App
   
 - 📧 Contact patch4code@gmail.com
   
