@@ -8,7 +8,7 @@
   
 - 🚀 Code Adventurer
   
-- 🧠 I'm Still learning
+- 🧠 Still learning
   
 - 📱🎮 Interested in App Development and Game Design
 
