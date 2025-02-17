@@ -5,14 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patch4code&label=Profile%20views&color=0e75b6&style=flat" alt="patch4code" /> </p>
 
 - 👋 Hey there, I'm @Patch4Code (aka Patchf4ce)
-  
-- 🚀 Code Adventurer
-  
-- 🧠 Still learning
-  
-- 📱🎮 Interested in App Development and Game Design
 
-- 💻 Currently working on a Movie-App
+- 💻 Interested Coder
+  
+- 📱 Check Out My New Movie-App – [Logline](https://github.com/Patch4Code/Logline)!
   
 - 📧 Contact patch4code@gmail.com
   
