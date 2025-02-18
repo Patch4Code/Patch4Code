@@ -14,6 +14,8 @@
   
 - 💬 Quote of the week <br><code style="color : LightSkyBlue">*Carpe Diem. Seize the day, boys. Make your lives extraordinary!*</code>
 
+</br>
+
 #
 
 <h3 align="left">Languages and Tools:</h3>
