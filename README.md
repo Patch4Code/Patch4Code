@@ -31,11 +31,12 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 <a href="https://affinity.serif.com/de/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Icon_AffinityDesigner_DesignerPersona.svg" alt="affinitydesigner" width="40" height="40"/></a>
 <a href="https://affinity.serif.com/de/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Logo_AffinityPhoto.svg" alt="affinityphoto" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-</p>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></p>
 
 #
 <p><img align="left" src=https://github-readme-stats.vercel.app/api?username=patch4code&show_icons=true&locale=en&layout=compact&theme=dark progress=true height="175"/></p>
 <p><img align="left" src=https://github-readme-stats.vercel.app/api/top-langs?username=patch4code&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=6 height="175"/></p>
 <br><br><br><br><br><br><br><br><br>
-<p><img align="center" src="https://streak-stats.demolab.com/?user=patch4code&theme=dark" alt="patch4code" height="166" /></p>
+
+<!-- <p><img align="center" src="https://streak-stats.demolab.com/?user=patch4code&theme=dark" alt="patch4code" height="166" /></p> -->
+
